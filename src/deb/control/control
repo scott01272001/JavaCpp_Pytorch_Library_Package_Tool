@@ -1,0 +1,12 @@
+Package: javacpp-pytorch-library
+Version: [[package.version]]
+Architecture: [[os.arch]]
+Maintainer: Ironyun <ironyun@ironyun.com>
+Distribution: development
+Section: video/ai
+Priority: optional
+Homepage: http://www.ironyun.com/
+Depends: 
+License: ainvr license
+Description: Required pyTorch library for JavaCpp pyTorch binding
+ 
